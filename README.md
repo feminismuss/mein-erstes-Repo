@@ -7,4 +7,6 @@ habe ich einige Dinge über die Versionsverwaltung gelernt
 - Liste mit `Irgendwas`
 - []done
 
-Den Text kann man mit wenigen Zeichen verändern Beispiele dafür, hab ich auf [GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Den Text kann man mit wenigen Zeichen verändern. Beispiele dafür, hab ich auf [GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
